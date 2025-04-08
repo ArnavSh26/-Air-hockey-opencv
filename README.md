@@ -1,24 +1,6 @@
-# ERC-Assignment-4
-
-## Steps to get you started
-
-- Fork the repo
-- clone it on your system
-- make the required changes in the python file (main.py)
-- push your changes on github
-- make a pull request
-
-### installation 
-
-Navigate to the folder and run the following command to install the required python libraries
 
 
-    pip install -r requirements.txt
-**Problem Statement: Virtual Air Hockey Game**
-
-You are tasked with developing a virtual air hockey game using computer vision and hand tracking. The game should be played using a webcam, where the player controls the paddle with their hand to hit a virtual puck and score points by hitting targets that appear on the screen. The game has a time limit, and the player's objective is to score as many points as possible within the given time.
-
-**Features and Requirements:**
+Features 
 
 1. **Hand Tracking:**
    - Utilize the `mediapipe` library for hand tracking.
@@ -56,11 +38,5 @@ You are tasked with developing a virtual air hockey game using computer vision a
 9. **Congratulations Message:**
    - If the player hits all the targets within the time limit, display a congratulations message.
 
-10. **Optimizations:**
-   - Optimize the code for efficiency and smooth gameplay.
-   - Implement any additional features or improvements to enhance the gaming experience.
-
-**Note:** Ensure that the code is well-documented, making it easy for others to understand.Also feel free to add more features to the game to make it more interesting. 
 
 
-**All the Best!!**
